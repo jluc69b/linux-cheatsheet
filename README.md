@@ -12,3 +12,4 @@ création d'une branche
 • cat : Affiche le contenu complet d'un fichier texte.
 • grep : Recherche une chaîne de caractères ou un motif dans des fichiers.
 • find : Cherche des fichiers et des dossiers dans l'arborescence.
+![alt text](image-2.png)
