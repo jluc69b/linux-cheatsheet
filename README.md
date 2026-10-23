@@ -7,3 +7,5 @@ git clone https://github.com/jluc69b/linux-cheatsheet.git
 • cp : Copie des fichiers ou des dossiers.
 • mv : Déplace ou renomme des fichiers.
 • rm : Supprime des fichiers ou des dossiers (avec -r pour un dossier)
+création d'une branche
+![alt text](image-1.png)
