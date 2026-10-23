@@ -6,6 +6,6 @@ git clone https://github.com/jluc69b/linux-cheatsheet.git
 • touch : Crée un fichier vide ou met à jour sa date de modification.
 • cp : Copie des fichiers ou des dossiers.
 • mv : Déplace ou renomme des fichiers.
-• rm : Supprime des fichiers ou des dossiers (avec -r pour un dossier)
+• rm : Supprime définitivement des fichiers ou des dossiers
 création d'une branche
 ![alt text](image-1.png)
