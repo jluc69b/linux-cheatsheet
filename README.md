@@ -9,3 +9,7 @@ git clone https://github.com/jluc69b/linux-cheatsheet.git
 • rm : Supprime des fichiers ou des dossiers (avec -r pour un dossier)
 création d'une branche
 ![alt text](image-1.png)
+• cat : Affiche le contenu complet d'un fichier texte.
+• grep : Recherche une chaîne de caractères ou un motif dans des fichiers.
+• find : Cherche des fichiers et des dossiers dans l'arborescence.
+![alt text](image-2.png)
